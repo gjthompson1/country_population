@@ -1,0 +1,1001 @@
+Country,City,AccentCity,Region,Population,Latitude,Longitude
+jp,tokyo,Tokyo,40,31480498,35.685,139.751389
+cn,shanghai,Shanghai,23,14608512,31.045556,121.399722
+in,bombay,Bombay,16,12692717,18.975,72.825833
+pk,karachi,Karachi,5,11627378,24.9056,67.0822
+in,delhi,Delhi,7,10928270,28.666667,77.216667
+in,new delhi,New Delhi,7,10928270,28.6,77.2
+ph,manila,Manila,D9,10443877,14.6042,120.9822
+ru,moscow,Moscow,48,10381288,55.752222,37.615556
+kr,seoul,Seoul,11,10323448,37.5985,126.9783
+br,sao paulo,Sâ€_o Paulo,27,10021437,-23.473293,-46.665803
+tr,istanbul,Istanbul,34,9797536,41.018611,28.964722
+ng,lagos,Lagos,5,8789133,6.453056,3.395833
+mx,mexico,Mexico,9,8720916,19.434167,-99.138611
+id,jakarta,Jakarta,4,8540306,-6.174444,106.829444
+us,new york,New York,NY,8107916,40.7141667,-74.0063889
+cd,kinshasa,Kinshasa,6,7787832,-4.3,15.3
+eg,cairo,Cairo,11,7734602,30.05,31.25
+pe,lima,Lima,15,7646786,-12.05,-77.05
+cn,peking,Peking,22,7480601,39.928889,116.388333
+gb,london,London,H9,7421228,51.514125,-0.093689
+co,bogota,BogotÂ·,34,7102602,4.649178,-74.062827
+bd,dhaka,Dhaka,81,6493177,23.7230556,90.4086111
+pk,lahore,Lahore,4,6312576,31.549722,74.343611
+br,rio de janeiro,Rio de Janeiro,21,6023742,-22.9,-43.233333
+iq,baghdad,Baghdad,7,5672516,33.3386111,44.3938889
+th,bangkok,Bangkok,40,5104475,13.753979,100.501444
+in,bangalore,Bangalore,19,4931603,12.983333,77.583333
+cl,santiago,Santiago,12,4837248,-33.45,-70.666667
+in,calcutta,Calcutta,28,4631819,22.569722,88.369722
+ca,toronto,Toronto,8,4612187,43.666667,-79.416667
+mm,rangoon,Rangoon,17,4477782,16.7833333,96.1666667
+au,sydney,Sydney,2,4394585,-33.861481,151.205475
+in,madras,Madras,25,4328416,13.083333,80.283333
+cn,wuhan,Wuhan,12,4184206,30.580125,114.273405
+ru,saint petersburg,Saint Petersburg,66,4039751,59.894444,30.264167
+cn,chongqing,Chongqing,33,3967028,29.562778,106.552778
+cn,xian,Xian,26,3953191,34.258333,108.928611
+cn,chengdu,Chengdu,32,3950437,30.666667,104.066667
+us,los angeles,Los Angeles,CA,3877129,34.0522222,-118.2427778
+eg,alexandria,Alexandria,6,3811512,31.1980556,29.9191667
+cn,tianjin,Tianjin,28,3766207,39.142222,117.176667
+au,melbourne,Melbourne,7,3730212,-37.813938,144.963425
+in,ahmadabad,Ahmadabad,9,3719933,23.033333,72.616667
+ci,abidjan,Abidjan,82,3692570,5.309657,-4.012656
+ng,kano,Kano,29,3626204,11.994354,8.513807
+ma,casablanca,Casablanca,45,3609698,33.592779,-7.619157
+in,hyderabad,Hyderabad,2,3598199,17.375278,78.474444
+ng,ibadan,Ibadan,32,3565810,7.387778,3.896389
+sg,singapore,Singapore,0,3547809,1.2930556,103.8558333
+tr,ankara,Ankara,68,3519177,39.911652,32.840305
+cn,shenyang,Shenyang,19,3512192,41.792222,123.432778
+sa,riyadh,Riyadh,10,3469290,24.653664,46.71522
+vn,ho chi minh city,Ho Chi Minh City,20,3467426,10.75,106.666667
+za,cape town,Cape Town,11,3433504,-33.925839,18.423218
+de,berlin,Berlin,16,3398362,52.516667,13.4
+ca,montreal,Montreal,10,3268513,45.5,-73.583333
+cn,harbin,Harbin,8,3229883,45.75,126.65
+cn,guangzhou,Guangzhou,30,3152825,23.116667,113.25
+za,durban,Durban,2,3120340,-29.857896,31.029198
+es,madrid,Madrid,29,3102644,40.408566,-3.69222
+cn,nanjing,Nanjing,4,3087010,32.061667,118.777778
+af,kabul,Kabul,13,3043589,34.516667,69.183333
+in,pune,Pune,16,2935968,18.533333,73.866667
+in,surat,Surat,9,2894675,20.966667,72.9
+us,chicago,Chicago,IL,2841952,41.85,-87.65
+in,kanpur,Kanpur,36,2823523,26.466667,80.35
+sd,umm durman,Umm Durman,29,2810328,15.6361111,32.4372222
+ao,luanda,Luanda,20,2776125,-8.836804,13.233174
+et,addis abeba,Addis Abeba,44,2757807,9.024325,38.749226
+ke,nairobi,Nairobi,5,2750561,-1.2833333,36.8166667
+cn,taiyuan,Taiyuan,24,2722475,37.726944,112.470833
+in,jaipur,Jaipur,24,2711937,26.916667,75.816667
+br,salvador,Salvador,5,2711903,-12.983333,-38.516667
+sn,dakar,Dakar,1,2702820,14.6708333,-17.4380556
+tz,dar es salaam,Dar es Salaam,23,2698651,-6.8,39.2833333
+it,rome,Rome,7,2643736,41.9,12.483333
+so,mogadishu,Mogadishu,2,2590180,2.0666667,45.3666667
+sa,jiddah,Jiddah,14,2545728,21.516944,39.219167
+cn,changchun,Changchun,5,2537421,43.88,125.322778
+tw,taipei,Taipei,3,2514794,25.0391667,121.525
+ua,kiev,Kiev,12,2514227,50.433333,30.516667
+pk,faisalabad,Faisalabad,4,2507302,31.416667,73.083333
+tr,izmir,Izmir,35,2501895,38.412726,27.138376
+in,lakhnau,Lakhnau,36,2472250,26.85,80.916667
+eg,gizeh,Gizeh,8,2443490,30.0086111,31.2122222
+br,fortaleza,Fortaleza,6,2416920,-3.316667,-41.416667
+co,cali,Cali,29,2392897,3.437222,-76.5225
+id,surabaya,Surabaya,8,2374920,-7.249167,112.750833
+br,belo horizonte,Belo Horizonte,15,2373255,-19.916667,-43.933333
+ir,mashhad,Mashhad,42,2307254,36.297,59.6062
+in,nagpur,Nagpur,16,2228191,21.15,79.1
+zw,harare,Harare,4,2213701,-17.8177778,31.0447222
+br,brasilia,BrasÃŒlia,7,2207812,-15.783333,-47.916667
+do,santo domingo,Santo Domingo,5,2202016,18.4666667,-69.9
+jp,nagoya,Nagoya,1,2191291,35.180198,136.906739
+sy,aleppo,Aleppo,9,2139878,36.2027778,37.1586111
+fr,paris,Paris,A8,2110694,48.866667,2.333333
+cn,jinan,Jinan,25,2069266,36.668333,116.997222
+cn,tangshan,Tangshan,10,2054526,37.3325,114.701389
+cn,dalian,Dalian,19,2035307,38.912222,121.602222
+us,houston,Houston,TX,2027712,29.7630556,-95.3630556
+za,johannesburg,Johannesburg,6,2026466,-26.205171,28.049815
+co,medellin,MedellÃŒn,2,2000001,6.25184,-75.563591
+dz,algiers,Algiers,1,1980242,36.7630556,3.0505556
+uz,tashkent,Tashkent,13,1978078,41.3166667,69.25
+sd,khartoum,Khartoum,29,1974780,15.5880556,32.5341667
+gh,accra,Accra,1,1963460,5.55,-0.2166667
+ec,guayaquil,Guayaquil,10,1952029,-2.1666667,-79.9
+ve,maracaibo,Maracaibo,23,1948269,10.6316667,-71.6405556
+ma,rabat,Rabat,49,1894386,34.013784,-6.844268
+cn,jilin,Jilin,5,1881977,43.850833,126.560278
+cn,hangzhou,Hangzhou,2,1878129,30.29365,120.161419
+ro,bucharest,Bucharest,10,1877155,44.433333,26.1
+cn,nanchang,Nanchang,3,1871351,28.55,115.933333
+gn,conakry,Conakry,4,1871185,9.5091667,-13.7122222
+au,brisbane,Brisbane,4,1843459,-27.47101,153.024292
+ca,vancouver,Vancouver,2,1837970,49.25,-123.133333
+in,indore,Indore,35,1837230,22.716667,75.833333
+ve,caracas,Caracas,25,1815681,10.5,-66.9166667
+mx,ecatepec,Ecatepec,15,1806297,19.601111,-99.0525
+id,medan,Medan,26,1751190,3.583333,98.666667
+pk,rawalpindi,Rawalpindi,4,1743599,33.6007,73.0679
+by,minsk,Minsk,4,1742123,53.9,27.5666667
+de,hamburg,Hamburg,4,1733846,53.55,10
+br,curitiba,Curitiba,18,1718433,-25.416667,-49.25
+hu,budapest,Budapest,5,1708088,47.5,19.083333
+id,bandung,Bandung,30,1699822,-6.903889,107.618611
+za,soweto,Soweto,6,1695094,-26.267812,27.858492
+pl,warsaw,Warsaw,78,1651676,52.25,21
+cn,qingdao,Qingdao,25,1642245,36.098611,120.371944
+mx,guadalajara,Guadalajara,14,1640649,20.666667,-103.333333
+za,pretoria,Pretoria,6,1619485,-25.706944,28.229444
+in,patna,Patna,34,1600085,25.6,85.116667
+in,bhopal,Bhopal,35,1600080,23.266667,77.4
+br,manaus,Manaus,4,1598227,-3.113333,-60.025278
+cn,xinyang,Xinyang,9,1590668,32.095833,114.120278
+ng,kaduna,Kaduna,23,1582211,10.522239,7.43828
+sy,damascus,Damascus,13,1576843,33.5,36.3
+kh,phnum penh,Phnum PÃˆnh,11,1573523,11.55,104.9166667
+es,barcelona,Barcelona,56,1570378,41.398371,2.1741
+at,vienna,Vienna,9,1569315,48.2,16.366667
+ir,esfahan,Esfahan,28,1547241,32.657218,51.677608
+in,ludhiana,Ludhiana,23,1545476,30.9,75.85
+jp,kobe,Kobe,13,1528487,34.691304,135.182995
+id,bekasi,Bekasi,30,1520204,-6.2349,106.9896
+tw,kaohsiung,Kaohsiung,2,1512832,22.6177778,120.3013889
+tw,kaohsiung,Kaohsiung,4,1512832,22.6333333,120.35
+cn,urumqi,â€_rÂ¸mqi,13,1508225,43.800965,87.600459
+in,thana,Thana,16,1486453,19.2,72.966667
+br,recife,Recife,30,1478118,-8.05,-34.9
+gh,kumasi,Kumasi,2,1468797,6.6833333,-1.6166667
+my,kuala lumpur,Kuala Lumpur,14,1453978,3.166667,101.7
+us,philadelphia,Philadelphia,PA,1453268,39.9522222,-75.1641667
+ir,karaj,Karaj,44,1448996,35.8355,51.0103
+au,perth,Perth,8,1446715,-31.95224,115.861397
+ar,cordoba,Cordoba,5,1441007,-31.413496,-64.181052
+pk,multan,Multan,4,1437644,30.195556,71.475278
+vn,hanoi,Hanoi,44,1431377,21.033333,105.85
+vn,ha noi,Ha Noi,44,1431377,21.033333,105.85
+in,agra,Agra,36,1430194,27.183333,78.016667
+us,phoenix,Phoenix,AZ,1428509,33.4483333,-112.0733333
+ir,tabriz,Tabriz,33,1424701,38.08,46.2919
+ru,novosibirsk,Novosibirsk,53,1419016,55.0415,82.9346
+cn,lanzhou,Lanzhou,15,1417742,36.056389,103.792222
+tr,bursa,Bursa,16,1413485,40.191667,29.061111
+in,vadodara,Vadodara,9,1409565,22.3,73.2
+br,belem,BelÃˆm,16,1407737,-1.45,-48.483333
+mx,juarez,Juarez,15,1403025,31.733333,-106.483333
+cn,fushun,Fushun,19,1400646,41.7,123.883333
+ec,quito,Quito,18,1399814,-0.2166667,-78.5
+mx,puebla,Puebla,21,1392137,19.05,-98.2
+mg,antananarivo,Antananarivo,5,1391506,-18.9166667,47.5166667
+cn,luoyang,Luoyang,9,1390581,34.683611,112.453611
+cn,hefei,Hefei,1,1388904,31.863889,117.280833
+pk,hyderabad,Hyderabad,5,1386840,25.39242,68.373656
+ve,valencia,Valencia,7,1385202,10.1805556,-68.0038889
+pk,gujranwala,Gujranwala,4,1384869,32.161667,74.188309
+co,barranquilla,Barranquilla,4,1380437,10.963889,-74.796389
+mx,tijuana,Tijuana,2,1376494,32.533333,-117.016667
+cd,lubumbashi,Lubumbashi,5,1374808,-11.666667,27.466667
+br,porto alegre,Porto Alegre,23,1372763,-30.033333,-51.2
+id,tangerang,Tangerang,30,1372185,-6.178056,106.63
+cn,handan,Handan,10,1358318,36.566667,114.533333
+ug,kampala,Kampala,37,1353236,0.3155556,32.5655556
+cn,suzhou,Suzhou,4,1343091,31.311389,120.618056
+bd,khulna,Khulna,82,1342429,22.8,89.55
+cm,douala,Douala,5,1338144,4.0502778,9.7
+id,makasar,Makasar,38,1321832,-5.14,119.4221
+jp,kawasaki,Kawasaki,19,1306804,35.520556,139.717222
+uy,montevideo,Montevideo,10,1305865,-34.8580556,-56.1708333
+cm,yaounde,YaoundÃˆ,11,1299446,3.8666667,11.5166667
+ml,bamako,Bamako,1,1297390,12.65,-8
+id,semarang,Semarang,7,1288221,-6.9932,110.4203
+ru,yekaterinburg,Yekaterinburg,71,1287586,56.8519,60.6122
+us,san diego,San Diego,CA,1287050,32.7152778,-117.1563889
+in,pimpri,Pimpri,16,1284702,18.616667,73.8
+ru,nizhniy novgorod,Nizhniy Novgorod,51,1284176,56.326944,44.0075
+in,faridabad,Faridabad,10,1280909,28.433333,77.316667
+zm,lusaka,Lusaka,9,1267458,-15.4166667,28.2833333
+in,kalyan,Kalyan,16,1262355,19.25,73.15
+us,san antonio,San Antonio,TX,1256810,29.4238889,-98.4933333
+se,stockholm,Stockholm,26,1253309,59.333333,18.05
+lb,bayrut,Bayrut,4,1252010,33.8719444,35.5097222
+lb,beirut,Beirut,4,1252010,33.8719444,35.5097222
+ir,shiraz,Shiraz,7,1249972,29.6036,52.5388
+tr,adana,Adana,81,1249680,37.001667,35.328889
+de,munich,Munich,2,1246133,48.15,11.5833
+id,palembang,Palembang,32,1241334,-2.916667,104.75
+ht,port-au-prince,Port-au-Prince,11,1234750,18.5391667,-72.335
+mx,nezahualcoyotl,NezahualcÃ›yotl,15,1232565,19.413611,-99.033056
+pk,peshawar,Peshawar,3,1219248,34.008,71.578488
+ar,rosario,Rosario,21,1218497,-32.946818,-60.639317
+ph,davao,Davao,C3,1212285,7.073056,125.612778
+us,dallas,Dallas,TX,1211704,32.7833333,-96.8
+mm,mandalay,Mandalay,8,1208227,22,96.0833333
+kz,almaty,Almaty,2,1204820,43.25,76.95
+sa,mecca,Mecca,14,1199659,21.426667,39.826111
+in,ghaziabad,Ghaziabad,36,1199306,28.666667,77.433333
+cn,anshan,Anshan,19,1199275,41.123611,122.99
+cn,xuzhou,Xuzhou,4,1199193,34.180454,117.15707
+id,depok,Depok,30,1198195,-6.343333,106.498889
+mz,maputo,Maputo,4,1191613,-25.9652778,32.5891667
+sl,freetown,Freetown,4,1190761,8.49,-13.2341667
+cn,fuzhou,Fuzhou,7,1179720,26.061389,119.306111
+in,rajkot,Rajkot,9,1177434,22.3,70.783333
+cn,guiyang,Guiyang,18,1171633,26.583333,106.716667
+br,goiania,Goiâ€_nia,29,1171209,-16.666667,-49.266667
+br,guarulhos,Guarulhos,27,1169601,-23.45068,-46.526175
+in,varanasi,Varanasi,36,1164520,25.333333,83
+ma,fez,Fez,46,1160239,34.037151,-4.999797
+it,milan,Milan,9,1156903,45.466667,9.2
+cz,prague,Prague,52,1154508,50.083333,14.466667
+ly,tripoli,Tripoli,61,1150990,32.8925,13.18
+ng,port harcourt,Port Harcourt,50,1148753,4.777423,7.013404
+jp,hiroshima,Hiroshima,11,1143850,34.434844,132.740622
+ni,managua,Managua,10,1140499,12.1508333,-86.2683333
+ae,dubai,Dubai,3,1137376,25.258172,55.304717
+ru,samara,Samara,65,1134742,53.1835,50.1182
+ru,omsk,Omsk,54,1129289,55,73.4
+ng,benin,BÃˆnin,37,1125126,6.335045,5.627492
+mx,monterrey,Monterrey,19,1122912,25.666667,-100.316667
+az,baku,Baku,9,1116513,40.395278,49.882222
+cg,brazzaville,Brazzaville,12,1115773,-4.2591667,15.2847222
+rs,belgrade,Belgrade,2,1115200,44.818611,20.468056
+mx,leon,LeÃ›n,11,1114662,21.116667,-101.666667
+ng,maiduguri,Maiduguri,27,1112511,11.846441,13.160274
+cn,wuxi,Wuxi,4,1108647,31.568873,120.288573
+ru,kazan,Kazan,73,1104750,55.78874,49.122144
+am,yerevan,Yerevan,11,1093499,40.1811111,44.5136111
+in,amritsar,Amritsar,23,1092528,31.633056,74.865556
+dk,copenhagen,Copenhagen,17,1089958,55.666667,12.583333
+tw,taichung,Taichung,4,1083582,24.1433333,120.6813889
+jp,saitama,Saitama,34,1077730,35.895534,139.67747
+ru,rostov-na-donu,Rostov-na-Donu,61,1074495,47.23135,39.723284
+au,adelaide,Adelaide,5,1074168,-34.928661,138.598633
+in,allahabad,Allahabad,36,1073544,25.45,81.85
+tr,gaziantep,Gaziantep,83,1066561,37.059444,37.3825
+in,visakhapatnam,Visakhapatnam,2,1063293,17.7,83.3
+ru,chelyabinsk,Chelyabinsk,13,1062931,55.154444,61.429722
+bg,sofia,Sofia,42,1062065,42.6833333,23.3166667
+cn,datong,Datong,24,1052678,40.093611,113.291389
+ge,tbilisi,Tbilisi,19,1049516,41.725,44.7908333
+cn,xianyang,Xianyang,26,1034081,34.33778,108.70261
+ru,ufa,Ufa,8,1033350,54.785167,56.045621
+br,campinas,Campinas,27,1031573,-22.9,-47.083333
+bf,ouagadougou,Ouagadougou,53,1031330,12.3702778,-1.5247222
+in,jabalpur,Jabalpur,35,1030276,23.166667,79.95
+in,haora,Haora,28,1027771,22.589167,88.310278
+cn,huainan,Huainan,1,1027655,32.626389,116.996944
+ie,dublin,Dublin,7,1024027,53.3330556,-6.2488889
+cn,kunming,Kunming,29,1023674,25.038889,102.718333
+be,brussels,Brussels,11,1019022,50.833333,4.333333
+in,aurangabad,Aurangabad,16,1016520,19.883333,75.333333
+ir,qom,Qom,39,1011103,34.6401,50.8764
+ru,volgograd,Volgograd,84,1010331,48.71939,44.501835
+cn,shenzhen,Shenzhen,30,1002592,22.533333,114.133333
+br,nova iguacu,Nova IguaÃÅu,21,1002129,-22.759188,-43.431887
+cn,rongcheng,Rongcheng,30,1001985,23.528858,116.364159
+ua,odesa,Odesa,17,1001553,46.463934,30.738551
+jp,kitakyushu,Kitakyushu,7,997545,33.833333,130.833333
+in,sholapur,Sholapur,16,997358,17.683333,75.916667
+cn,baoding,Baoding,10,995652,38.851111,115.490278
+cn,benxi,Benxi,19,987717,41.288611,123.765
+mx,zapopan,Zapopan,14,987555,20.716667,-103.4
+gb,birmingham,Birmingham,A7,984336,52.466667,-1.916667
+ru,perm,Perm,90,982428,58.009282,56.284063
+it,naples,Naples,4,981284,40.833333,14.25
+in,srinagar,Srinagar,12,975926,34.092222,74.802222
+ng,zaria,Zaria,23,975228,11.113236,7.725176
+gt,guatemala city,Guatemala City,7,973208,14.621111,-90.526944
+gt,guatemala,Guatemala,7,973208,14.621111,-90.526944
+ar,mendoza,Mendoza,13,973047,-32.890845,-68.827171
+de,cologne,Cologne,7,968823,50.933333,6.95
+ca,calgary,Calgary,1,968475,51.083333,-114.083333
+za,port elizabeth,Port Elizabeth,5,967722,-33.917988,25.570066
+br,maceio,MaceiÃ›,2,955010,-9.666667,-35.716667
+co,cartagena,Cartagena,35,952036,10.399722,-75.514444
+cn,changzhou,Changzhou,4,949018,31.783333,119.966667
+in,ranchi,Ranchi,38,945079,23.35,85.333333
+ma,marrakesh,Marrakesh,47,942631,31.631485,-8.008281
+br,sao goncalo,Sâ€_o GonÃÅalo,21,939101,-22.800278,-43.025556
+lr,monrovia,Monrovia,14,935427,6.3105556,-10.8047222
+iq,irbil,Irbil,11,932854,36.19,44.0088889
+in,jodhpur,Jodhpur,24,921540,26.286667,73.03
+br,sao luis,Sâ€_o LuÃŒs,13,917252,-2.516667,-44.266667
+in,chandigarh,Chandigarh,5,914374,30.7343,76.7933
+in,madurai,Madurai,25,909988,9.933333,78.116667
+ru,krasnoyarsk,Krasnoyarsk,39,907460,56.0091,92.8628
+cn,huaibei,Huaibei,1,903039,33.974444,116.791667
+bo,cochabamba,Cochabamba,2,900440,-17.3833333,-66.15
+in,guwahati,Guwahati,3,899132,26.183333,91.733333
+ng,aba,Aba,45,897613,5.106576,7.366667
+us,san jose,San Jose,CA,897460,37.3394444,-121.8938889
+zw,bulawayo,Bulawayo,6,897249,-20.15,28.5833333
+cn,pingdingshan,Pingdingshan,9,889675,33.738472,113.301194
+us,detroit,Detroit,MI,884941,42.3313889,-83.0458333
+in,gwalior,Gwalior,35,882551,26.223611,78.179167
+cn,qiqihar,Qiqihar,8,882364,47.340833,123.967222
+my,klang,Klang,12,879887,3.033333,101.45
+tr,konya,Konya,71,876004,37.871354,32.484636
+cd,mbuji-mayi,Mbuji-Mayi,4,874974,-6.15,23.6
+in,vijayawada,Vijayawada,2,874684,16.516667,80.616667
+ca,ottawa,Ottawa,8,874433,45.416667,-75.7
+in,maisuru,Maisuru,19,868385,12.307222,76.649722
+cn,wenzhou,Wenzhou,2,865672,27.999416,120.66682
+ru,saratov,Saratov,67,863734,51.540556,46.008611
+ng,ogbomosho,Ogbomosho,32,861303,8.133333,4.266667
+ir,ahvaz,Ahvaz,15,854980,31.3203,48.6693
+hn,tegucigalpa,Tegucigalpa,8,850961,14.1,-87.2166667
+it,turin,Turin,12,846489,45.05,7.666667
+mx,naucalpan,Naucalpan,15,846222,19.479444,-99.238333
+mn,ulaanbaatar,Ulaanbaatar,20,844786,47.9166667,106.9166667
+pe,arequipa,Arequipa,4,844000,-16.3988889,-71.535
+ru,voronezh,Voronezh,86,840590,51.672035,39.184301
+id,padang,Padang,24,840458,-0.953154,100.367659
+in,hubli,Hubli,19,840285,15.35,75.166667
+ua,lvov,Lvov,15,830000,49.840661,24.030451
+ar,tucuman,Tucuman,24,828402,-26.824144,-65.2226
+ma,tangier,Tangier,57,825316,35.780576,-5.813646
+ca,edmonton,Edmonton,1,822319,53.55,-113.5
+br,duque de caxias,Duque de Caxias,21,818339,-22.790321,-43.325009
+ng,jos,Jos,49,816876,9.916667,8.9
+ng,ilorin,Ilorin,30,814246,8.5,4.55
+bo,la paz,La Paz,4,812819,-16.5,-68.15
+ve,barquisimeto,Barquisimeto,13,809564,10.0738889,-69.3227778
+no,oslo,Oslo,12,808690,59.916667,10.75
+cn,nanning,Nanning,16,803788,22.816667,108.316667
+my,johor bahru,Johor Bahru,1,802525,1.4655,103.7578
+ke,mombasa,Mombasa,2,799727,-4.05,39.6666667
+tm,asgabat,Asgabat,1,797900,37.95,58.3833333
+us,jacksonville,Jacksonville,FL,797557,30.3319444,-81.6558333
+ua,zaporizhzhya,Zaporizhzhya,26,796213,47.822892,35.190314
+fr,marseille,Marseille,B8,792823,43.285413,5.37606
+np,kathmandu,Kathmandu,0,790612,27.7166667,85.3166667
+in,jalandhar,Jalandhar,23,785234,31.325556,75.579167
+in,thiruvananthapuram,Thiruvananthapuram,13,784223,8.506944,76.956944
+jp,sakai,Sakai,32,782347,34.583333,135.466667
+cn,anyang,Anyang,9,781129,36.099444,114.328889
+in,selam,Selam,25,778462,11.65,78.166667
+in,tiruchchirappalli,Tiruchchirappalli,25,775551,10.805,78.685556
+cn,hohhot,Hohhot,20,774477,40.810556,111.652222
+ne,niamey,Niamey,5,774245,13.6666667,1.7833333
+ne,niamey,Niamey,8,774245,13.5166667,2.1166667
+us,indianapolis,Indianapolis,IN,773283,39.7683333,-86.1580556
+es,valencia,Valencia,60,769897,39.466667,-0.366667
+id,bogor,Bogor,30,769328,-6.594444,106.789167
+cn,xining,Xining,6,767531,36.616667,101.766667
+ir,kermanshah,Kermanshah,13,766742,34.314167,47.065
+cn,liuzhou,Liuzhou,16,763168,24.312582,109.389157
+in,kota,Kota,24,763141,25.183333,75.833333
+br,natal,Natal,22,763057,-5.783333,-35.216667
+in,bhubaneswar,Bhubaneswar,21,762307,20.233333,85.833333
+cn,qinhuangdao,Qinhuangdao,10,759718,39.931667,119.588333
+cn,hengyang,Hengyang,11,759602,26.888056,112.615
+tr,antalya,Antalya,7,758603,36.908118,30.695565
+ph,cebu,Cebu,B7,758597,10.311111,123.891667
+pk,islamabad,Islamabad,8,756105,33.69,73.0551
+pl,cracow,Cracow,77,755050,50.083333,19.916667
+in,aligarh,Aligarh,36,753280,27.883333,78.083333
+za,pietermaritzburg,Pietermaritzburg,2,750864,-29.616785,30.39278
+cn,taian,Taian,25,750340,36.185278,117.12
+pe,trujillo,Trujillo,13,750004,-8.1166667,-79.0333333
+id,malang,Malang,8,746780,-7.9797,112.6304
+ve,ciudad guayana,Ciudad Guayana,6,746606,8.3533333,-62.6527778
+nl,amsterdam,Amsterdam,7,745811,52.35,4.916667
+rw,kigali,Kigali,9,745526,-1.9536111,30.0605556
+in,bareli,Bareli,36,745509,28.35,79.416667
+br,teresina,Teresina,20,744526,-5.083333,-42.816667
+cn,xinxiang,Xinxiang,9,743601,35.308889,113.867222
+br,sao bernardo do campo,Sâ€_o Bernardo do Campo,27,743386,-23.7,-46.55
+cn,hegang,Hegang,8,743307,47.4,130.366667
+lv,riga,Riga,25,742570,56.95,24.1
+us,columbus,Columbus,OH,736836,39.9611111,-82.9988889
+ng,oyo,Oyo,32,736113,7.85,3.933333
+tw,tainan,Tainan,4,734314,22.9933333,120.2036111
+pk,quetta,Quetta,2,733970,30.199004,67.009708
+us,san francisco,San Francisco,CA,732072,37.775,-122.4183333
+br,campo grande,Campo Grande,11,729164,-20.45,-54.616667
+gr,athens,Athens,35,729139,37.9833333,23.7333333
+mx,guadalupe,Guadalupe,19,724949,25.683333,-100.25
+co,cucuta,CË™cuta,21,721406,7.893907,-72.507821
+in,moradabad,Moradabad,36,721210,28.833333,78.783333
+cn,langfang,Langfang,10,720119,39.509722,116.694722
+cn,ningbo,Ningbo,2,719867,29.878186,121.549453
+cn,yantai,Yantai,25,719332,37.533333,121.4
+ru,tolyatti,Tolyatti,65,718495,53.5303,49.3461
+mx,merida,MÃˆrida,31,717196,20.966667,-89.616667
+mx,tlalnepantla,Tlalnepantla,15,715798,19.526944,-99.221667
+il,jerusalem,Jerusalem,6,714685,31.78,35.23
+md,chisinau,Chisinau,57,713805,47.005556,28.8575
+mr,nouakchott,Nouakchott,6,709835,18.0863889,-15.9752778
+cn,zhuzhou,Zhuzhou,11,709358,27.691868,113.152137
+mx,chihuahua,Chihuahua,6,708292,28.633333,-106.083333
+in,bhiwandi,Bhiwandi,16,707090,19.3,73.066667
+br,jaboatao,Jaboatâ€_o,30,702632,-8.116667,-35.016667
+bd,rajshahi,Rajshahi,81,700206,24.3666667,88.6
+hr,zagreb,Zagreb,21,698967,45.8,16
+ba,sarajevo,Sarajevo,1,696726,43.85,18.3833333
+tn,tunis,Tunis,36,692816,36.806112,10.171078
+cn,zhangjiakou,Zhangjiakou,10,692602,40.81,114.879444
+bj,cotonou,Cotonou,14,690584,6.35,2.4333333
+cn,zigong,Zigong,32,689961,29.341622,104.776887
+cn,fuxin,Fuxin,19,689050,42.015556,121.658889
+cn,liaoyang,Liaoyang,19,687890,41.226111,123.056111
+es,sevilla,Sevilla,51,686647,37.382408,-5.976133
+ar,la plata,La Plata,1,684318,-34.921454,-57.954533
+cf,bangui,Bangui,18,684190,4.3666667,18.5833333
+in,raipur,Raipur,37,680066,21.233333,81.633333
+us,austin,Austin,TX,678368,30.2669444,-97.7427778
+br,osasco,Osasco,27,677869,-23.566667,-46.783333
+mx,san luis potosi,San Luis PotosÃŒ,24,677726,22.15,-100.983333
+in,gorakhpur,Gorakhpur,36,674312,26.755,83.373889
+my,ipoh,Ipoh,7,673346,4.5841,101.0829
+cn,zhangdian,Zhangdian,25,669770,36.790556,118.063333
+it,palermo,Palermo,15,669582,38.116667,13.366667
+cn,puyang,Puyang,9,666322,35.702778,115.005278
+cn,nantong,Nantong,4,666251,32.030278,120.874722
+cn,mudanjiang,Mudanjiang,8,665915,44.583333,129.6
+br,santo andre,Santo AndrÃˆ,27,662387,-23.666667,-46.516667
+mx,aguascalientes,Aguascalientes,1,658193,21.883333,-102.3
+ma,agadir,Agadir,55,656110,30.420664,-9.593161
+ca,hamilton,Hamilton,8,653637,43.25,-79.833333
+ng,enugu,Enugu,47,653436,6.4402,7.4943
+ua,kryvyy rih,Kryvyy Rih,4,652376,47.909659,33.380438
+mx,acapulco,Acapulco,12,652160,16.85,-99.916667
+br,joao pessoa,Joâ€_o Pessoa,17,650896,-7.116667,-34.866667
+ly,benghazi,Benghazi,54,650629,32.1166667,20.0666667
+ru,krasnodar,Krasnodar,38,649860,45.0488,38.9725
+cn,shaoyang,Shaoyang,11,649452,26.965893,111.241376
+cn,guilin,Guilin,16,649352,25.281944,110.286389
+jp,sagamihara,Sagamihara,19,648811,35.553056,139.354444
+lk,colombo,Colombo,36,648119,6.9319444,79.8477778
+de,frankfurt,Frankfurt,5,648034,50.116667,8.683333
+mw,lilongwe,Lilongwe,11,646738,-13.9833333,33.7833333
+dz,wahran,Wahran,9,646025,35.6911111,-0.6416667
+ar,mar del plata,Mar del Plata,1,645771,-38.002278,-57.557539
+ca,quebec,Quebec,10,645623,46.8,-71.25
+us,memphis,Memphis,TN,641608,35.1494444,-90.0488889
+ru,ulyanovsk,Ulyanovsk,81,640685,54.328241,48.38657
+cn,zhanjiang,Zhanjiang,30,637790,21.281452,110.342713
+id,yogyakarta,Yogyakarta,10,636711,-7.782778,110.360833
+es,zaragoza,Zaragoza,52,635509,41.64531,-0.884861
+pl,wroclaw,Wroclaw,72,634893,51.1,17.033333
+cn,zhenjiang,Zhenjiang,4,632552,32.209167,119.434167
+ca,winnipeg,Winnipeg,3,632069,49.883333,-97.166667
+cn,dandong,Dandong,19,631973,40.129167,124.394722
+ru,izhevsk,Izhevsk,80,631044,56.849756,53.204479
+cn,shaoguan,Shaoguan,30,628749,24.8,113.583333
+cn,yancheng,Yancheng,4,628441,33.385556,120.125278
+cn,foshan,Foshan,30,627348,23.026771,113.131483
+br,contagem,Contagem,15,627132,-19.916667,-44.1
+in,bhilai,Bhilai,37,625203,21.216667,81.433333
+dj,jibuti,Jibuti,3,623891,11.595,43.1480556
+mx,saltillo,Saltillo,7,621270,25.416667,-101
+us,fort worth,Fort Worth,TX,618119,32.7252778,-97.3205556
+in,jamshedpur,Jamshedpur,38,616404,22.8,86.183333
+cn,haikou,Haikou,31,615835,20.045833,110.341667
+br,sao jose dos campos,Sâ€_o JosÃˆ dos Campos,27,613776,-23.183333,-45.883333
+tr,mersin,Mersin,32,612540,36.732778,34.644167
+cn,taizhou,Taizhou,4,612356,32.493333,119.910627
+mx,queretaro,QuerÃˆtaro,22,611803,20.6,-100.383333
+cn,xingtai,Xingtai,10,611739,37.063056,114.494167
+us,baltimore,Baltimore,MD,610892,39.2902778,-76.6125
+gb,glasgow,Glasgow,V2,610271,55.833333,-4.25
+ru,yaroslavl,Yaroslavl,88,606735,57.61977,39.85536
+za,benoni,Benoni,6,605363,-26.190851,28.311338
+jp,hamamatsu,Hamamatsu,37,605105,34.7,137.733333
+in,kochi,Kochi,13,604751,9.966667,76.233333
+cn,jinzhou,Jinzhou,19,604269,41.107778,121.141667
+in,amravati,Amravati,16,603885,20.933333,77.75
+nl,rotterdam,Rotterdam,11,603851,51.916667,4.5
+ae,abu dhabi,Abu Dhabi,1,603687,24.466667,54.366667
+vn,hai phong,Hai Phong,13,602718,20.856111,106.682222
+ir,orumiyeh,Orumiyeh,1,602443,37.5553,45.0724
+iq,kirkuk,Kirkuk,13,601442,35.4680556,44.3922222
+ru,barnaul,Barnaul,4,599586,53.360556,83.763611
+us,charlotte,Charlotte,NC,598351,35.2269444,-80.8433333
+us,el paso,El Paso,TX,597181,31.7586111,-106.4863889
+cn,luancheng,Luancheng,10,597130,37.879167,114.651667
+mx,mexicali,Mexicali,2,597124,32.651944,-115.468333
+mx,hermosillo,Hermosillo,26,595833,29.066667,-110.966667
+ir,rasht,Rasht,8,594619,37.280769,49.58319
+de,dortmund,Dortmund,7,594255,51.516667,7.45
+tr,kayseri,Kayseri,38,593164,38.732222,35.485278
+ng,abeokuta,Abeokuta,16,593140,7.15,3.35
+mx,morelia,Morelia,16,592820,19.7,-101.116667
+de,stuttgart,Stuttgart,1,591688,48.766667,9.183333
+cn,yingkou,Yingkou,19,591159,40.637318,122.502508
+mx,chimalhuacan,ChimalhuacÂ·n,15,590165,19.416667,-98.9
+cn,zhangzhou,Zhangzhou,7,589831,24.513333,117.655556
+ru,vladivostok,Vladivostok,59,587029,43.128056,131.901111
+ru,irkutsk,Irkutsk,20,586702,52.297778,104.296389
+gb,belfast,Belfast,R3,585994,54.583333,-5.933333
+it,genoa,Genoa,8,585815,44.416667,8.95
+mw,blantyre,Blantyre,24,584870,-15.7833333,35
+jm,kingston,Kingston,8,583999,18,-76.8
+pe,chiclayo,Chiclayo,14,582597,-6.7736111,-79.8416667
+mx,culiacan,CuliacÂ·n,25,582489,24.799444,-107.389722
+jp,hachioji,Hachioji,40,579402,35.655833,139.323889
+us,milwaukee,Milwaukee,WI,579180,43.0388889,-87.9063889
+cn,xiamen,Xiamen,7,578337,24.479794,118.081869
+ru,khabarovsk,Khabarovsk,30,578307,48.480833,135.092778
+ga,libreville,Libreville,1,578156,0.3833333,9.45
+ir,kerman,Kerman,29,577547,30.283209,57.07879
+de,dusseldorf,DÂ¸sseldorf,7,577139,51.216667,6.766667
+cn,kaifeng,Kaifeng,9,576915,34.744167,114.418611
+de,essen,Essen,7,576914,51.45,7.016667
+cn,bengbu,Bengbu,1,576648,32.940833,117.360833
+in,bikaner,Bikaner,24,576056,28.016667,73.3
+id,banjarmasin,Banjarmasin,12,572910,-3.333333,114.583333
+cn,shihezi,Shihezi,13,572772,44.3,86.033333
+ci,bouake,BouakÃˆ,90,572149,7.693846,-5.030307
+co,bucaramanga,Bucaramanga,26,571827,7.125393,-73.119804
+us,boston,Boston,MA,571281,42.3583333,-71.0602778
+my,kuching,Kuching,11,570579,1.55,110.333333
+pl,poznan,Poznan,86,570352,52.416667,16.966667
+us,seattle,Seattle,WA,569369,47.6063889,-122.3308333
+mx,veracruz,Veracruz,30,568336,19.2,-96.133333
+er,asmara,Asmara,0,563948,15.3333333,38.9333333
+ng,sokoto,Sokoto,51,563899,13.048025,5.214285
+br,uberlandia,Uberlâ€_ndia,15,563545,-18.916667,-48.3
+ng,onitsha,Onitsha,25,561106,6.14543,6.788452
+jp,funabashi,Funabashi,4,560754,35.693056,139.983333
+br,sorocaba,Sorocaba,27,558874,-23.483333,-47.45
+fi,helsinki,Helsinki,13,558457,60.175556,24.934167
+es,malaga,MÂ·laga,51,557875,36.726666,-4.434802
+in,warangal,Warangal,2,557864,18,79.583333
+us,denver,Denver,CO,555981,39.7391667,-104.9841667
+do,santiago,Santiago,25,555911,19.45,-70.7
+cu,santiago de cuba,Santiago de Cuba,15,555878,20.0247222,-75.8219444
+id,surakarta,Surakarta,7,555368,-7.556111,110.831667
+cn,huaiyin,Huaiyin,4,555230,33.588611,119.019167
+in,bhavnagar,Bhavnagar,9,555014,21.766667,72.15
+pk,bahawalpur,Bahawalpur,4,552765,29.4,71.683333
+us,washington,Washington,DC,552433,38.895,-77.0366667
+br,ribeirao preto,Ribeirâ€_o PrÃçto,27,551278,-21.166667,-47.8
+ye,aden,Aden,2,550744,12.7794444,45.0366667
+cn,jiamusi,Jiamusi,8,549549,46.833333,130.35
+ph,antipolo,Antipolo,H5,549541,14.5886,121.1757
+ar,salta,Salta,17,548288,-24.785896,-65.411664
+cn,neijiang,Neijiang,32,546854,29.583536,105.06216
+de,bremen,Bremen,3,546429,53.083333,8.8
+ae,sharjah,Sharjah,6,543942,25.35731,55.403304
+mz,matola,Matola,4,543907,-25.9622222,32.4588889
+tj,dushanbe,Dushanbe,2,543105,38.56,68.7738889
+pk,sargodha,Sargodha,4,542761,32.083611,72.671111
+lt,vilnius,Vilnius,65,542381,54.6833333,25.3166667
+mx,cancun,CancË™n,23,542156,21.166667,-86.833333
+us,portland,Portland,OR,540513,45.5236111,-122.675
+cn,maanshan,Maanshan,1,540198,31.695678,118.498248
+us,las vegas,Las Vegas,NV,540111,36.175,-115.1363889
+cn,yangzhou,Yangzhou,4,539715,32.397222,119.435833
+ru,novokuznetsk,Novokuznetsk,29,539622,53.7557,87.1099
+cd,kisangani,Kisangani,9,539164,0.516667,25.2
+eg,port said,Port Said,19,538377,31.2666667,32.3
+ng,warri,Warri,10,536068,5.516667,5.75
+cn,tanggu,Tanggu,28,535298,39.021111,117.646944
+us,oklahoma city,Oklahoma City,OK,532950,35.4675,-97.5161111
+cn,jiangmen,Jiangmen,30,532419,22.583333,113.083333
+us,nashville,Nashville,TN,530852,36.1658333,-86.7844444
+mz,beira,Beira,5,530706,-19.8436111,34.8388889
+in,guntur,Guntur,2,530636,16.3,80.45
+cn,yueyang,Yueyang,11,528140,29.140833,113.111111
+cn,cangzhou,Cangzhou,10,527681,38.316667,116.866667
+sv,san salvador,San Salvador,10,526013,13.7086111,-89.2030556
+mx,torreon,TorreÃ›n,7,524084,25.55,-103.433333
+in,dehra dun,Dehra Dun,39,522135,30.316667,78.033333
+br,cuiaba,CuiabÂ·,14,521961,-15.583333,-56.083333
+mx,lopez mateos,LÃ›pez Mateos,15,521056,19.558333,-99.261389
+my,petaling jaya,Petaling Jaya,12,520712,3.083333,101.65
+ru,ryazan,Ryazan,62,520177,54.6269,39.6916
+de,hanover,Hanover,6,519144,52.366667,9.716667
+ru,tyumen,Tyumen,78,519124,57.152222,65.527222
+in,durgapur,Durgapur,28,518922,23.483333,87.316667
+us,tucson,Tucson,AZ,518907,32.2216667,-110.9258333
+in,ajmer,Ajmer,24,517947,26.45,74.633333
+pt,lisbon,Lisbon,14,517798,38.716667,-9.133333
+cn,changde,Changde,11,517780,29.046378,111.678304
+cn,jiaozuo,Jiaozuo,9,517540,35.239722,113.233056
+in,ulhasnagar,Ulhasnagar,16,516625,19.216667,73.15
+in,kolhapur,Kolhapur,16,516184,16.7,74.216667
+ru,lipetsk,Lipetsk,43,515659,52.603111,39.570762
+in,shiliguri,Shiliguri,28,515623,26.716111,88.423611
+se,goteborg,GË†teborg,28,515253,57.716667,11.966667
+tr,eskisehir,Eskisehir,26,515155,39.776667,30.520556
+ir,hamadan,Hamadan,9,514134,34.799216,48.514556
+ru,penza,Penza,57,512607,53.200656,45.004643
+za,tembisa,Tembisa,6,511671,-25.996363,28.226802
+ph,makati,Makati,D9,510383,14.566667,121.033333
+py,asuncion,AsunciÃ›n,6,508797,-25.266667,-57.666667
+mx,san nicolas de los garza,San NicolÂ·s de los Garza,19,507837,25.75,-100.3
+cn,wuhu,Wuhu,1,507524,31.14607,118.57069
+mx,toluca,Toluca,15,505903,19.288333,-99.667222
+jp,niigata,Niigata,29,505276,37.902222,139.023611
+de,duisburg,Duisburg,7,505271,51.433333,6.75
+in,asansol,Asansol,28,504320,23.683333,86.983333
+ir,arak,Arak,34,503673,34.091741,49.689164
+ru,astrakhan,Astrakhan,7,502537,46.349683,48.040756
+cn,zhuhai,Zhuhai,30,501199,22.276944,113.567778
+au,gold coast,Gold Coast,4,501175,-28.00029,153.430878
+ng,oshogbo,Oshogbo,42,499444,7.766667,4.566667
+cn,shashi,Shashi,12,498780,30.307222,112.244722
+mx,reynosa,Reynosa,28,498670,26.083333,-98.283333
+ru,makhachkala,Makhachkala,17,497967,42.976378,47.502356
+au,newcastle,Newcastle,2,497961,-32.927792,151.784485
+de,nuremberg,Nuremberg,2,497593,49.447778,11.068333
+mx,tlaquepaque,Tlaquepaque,14,493667,20.65,-103.316667
+de,leipzig,Leipzig,13,492637,51.3,12.333333
+in,jamnagar,Jamnagar,9,492087,22.466667,70.066667
+tw,panchiao,Panchiao,3,491891,25.0391667,121.525
+br,aracaju,Aracaju,28,490184,-10.916667,-37.066667
+hn,san pedro sula,San Pedro Sula,6,489506,15.5,-88.0333333
+eg,suez,Suez,15,488124,29.9666667,32.55
+us,albuquerque,Albuquerque,NM,487378,35.0844444,-106.6505556
+ru,tomsk,Tomsk,75,485523,56.494167,84.974167
+in,nanded,Nanded,16,485150,19.15,77.333333
+in,saharanpur,Saharanpur,36,484921,29.966667,77.55
+in,gulbarga,Gulbarga,19,483655,17.333333,76.833333
+in,bhatpara,Bhatpara,28,483175,22.871389,88.408889
+us,long beach,Long Beach,CA,482618,33.7669444,-118.1883333
+br,feira de santana,Feira de Santana,5,481926,-12.25,-38.95
+my,shah alam,Shah Alam,12,481670,3.083333,101.533333
+jp,himeji,Himeji,13,481496,34.816667,134.7
+mx,tuxtla gutierrez,Tuxtla GutiÃˆrrez,5,481143,16.75,-93.116667
+by,gomel,Gomel,2,481000,52.4416667,30.9833333
+de,dresden,Dresden,13,480801,51.05,13.75
+so,hargeysa,Hargeysa,16,478283,9.5833333,44.0666667
+ir,yazd,Yazd,40,477926,31.897222,54.3675
+pk,sialkot,Sialkot,4,477537,32.510103,74.54313
+ru,kemerovo,Kemerovo,29,477096,55.333333,86.083333
+cn,yichang,Yichang,12,476725,30.77135,111.321458
+nl,the hague,The Hague,11,476587,52.083333,4.3
+mx,cuautitlan izcalli,CuautitlÂ·n Izcalli,15,475199,19.646944,-99.246667
+cn,yinchuan,Yinchuan,21,475101,38.468056,106.273056
+mk,skopje,Skopje,41,474887,42,21.4333333
+za,vereeniging,Vereeniging,6,474680,-26.673133,27.926147
+cn,maoming,Maoming,30,473251,21.65,110.9
+vn,da nang,Da Nang,78,472255,16.067778,108.220833
+br,londrina,Londrina,18,471836,-23.3,-51.15
+cn,jiaojiang,Jiaojiang,2,470804,28.680278,121.442778
+jp,matsudo,Matsudo,4,470287,35.783333,139.9
+br,juiz de fora,Juiz de Fora,15,470201,-21.751667,-43.352778
+ar,san juan,San Juan,18,469958,-31.5375,-68.536389
+gb,liverpool,Liverpool,H8,468946,53.416667,-3
+jp,nishinomiya,Nishinomiya,13,468929,34.716667,135.333333
+ru,tula,Tula,76,468830,54.202133,37.644294
+jp,kawaguchi,Kawaguchi,34,468574,35.805,139.720556
+us,sacramento,Sacramento,CA,467898,38.5816667,-121.4933333
+cn,zunyi,Zunyi,18,466292,27.543056,106.823056
+br,belford roxo,Belford Roxo,21,466101,-22.761995,-43.404654
+cn,jiaxing,Jiaxing,2,466101,30.752198,120.749997
+in,jammu,Jammu,12,465600,32.733333,74.866667
+us,fresno,Fresno,CA,465183,36.7477778,-119.7713889
+fr,lyon,Lyon,B9,463700,45.748457,4.846711
+cd,kananga,Kananga,3,463556,-5.895833,22.417778
+za,bloemfontein,Bloemfontein,3,463084,-29.121065,26.214003
+cn,xiangfan,Xiangfan,12,462956,32.042203,112.144794
+pl,gdansk,Gdansk,82,461865,54.36085,18.658291
+ng,calabar,Calabar,22,461832,4.9517,8.322
+cn,panzhihua,Panzhihua,32,461513,26.547902,101.705386
+br,joinville,Joinville,26,461312,-26.3,-48.833333
+ph,zamboanga,Zamboanga,G7,460879,6.910255,122.071715
+gt,mixco,Mixco,7,460576,14.633333,-90.606389
+be,antwerp,Antwerp,1,459805,51.216667,4.416667
+us,new orleans,New Orleans,LA,459336,29.9544444,-90.075
+jp,ichikawa,Ichikawa,4,458249,35.719722,139.924722
+in,ujjain,Ujjain,35,457395,23.183333,75.766667
+ru,kirov,Kirov,33,457387,58.596654,49.660068
+my,kota kinabalu,Kota Kinabalu,16,457375,5.9749,116.0724
+mx,durango,Durango,10,457154,24.033333,-104.666667
+br,niteroi,NiterÃ›i,21,456461,-22.90214,-43.130301
+cn,hengshui,Hengshui,10,456356,37.732222,115.701111
+zw,chitungwiza,Chitungwiza,4,456206,-17.9938889,31.0480556
+ar,santa fe,Santa Fe,21,456044,-31.629484,-60.701036
+id,pontianak,Pontianak,11,455226,-0.033333,109.333333
+gb,leeds,Leeds,H3,455124,53.8,-1.583333
+br,sao joao de meriti,Sâ€_o Joâ€_o de Meriti,21,454855,-22.798614,-43.360894
+ph,bacolod,Bacolod,A2,453954,10.6677,122.9533
+id,manado,Manado,31,451910,1.487,124.8455
+cn,jining,Jining,25,450327,35.405,116.581389
+dz,constantine,Constantine,4,450126,36.365,6.6147222
+us,mesa,Mesa,AZ,449878,33.4222222,-111.8219444
+tr,urfa,Urfa,63,449785,37.16708,38.793919
+us,cleveland,Cleveland,OH,449514,41.4994444,-81.6955556
+us,virginia beach,Virginia Beach,VA,449386,36.8527778,-75.9783333
+cn,chengde,Chengde,10,449325,40.770278,118.169722
+cn,xuchang,Xuchang,9,449258,34.016667,113.816667
+gb,sheffield,Sheffield,L9,447048,53.366667,-1.5
+ru,cheboksary,Cheboksary,16,446786,56.132222,47.251944
+ph,cagayan de oro,Cagayan de Oro,B2,445212,8.481111,124.643056
+za,boksburg,Boksburg,6,445182,-26.214953,28.254732
+in,rajpur,Rajpur,28,444549,22.4125,88.418056
+jp,amagasaki,Amagasaki,13,442176,34.716667,135.416667
+tr,malatya,Malatya,44,442046,38.350183,38.316669
+us,kansas city,Kansas City,KS,442028,39.1141667,-94.6272222
+us,kansas city,Kansas City,MO,442028,39.0997222,-94.5783333
+ph,dasmarinas,DasmariÃ’as,20,441878,14.329444,120.936667
+co,pereira,Pereira,24,440123,4.813333,-75.696111
+ht,carrefour,Carrefour,11,439590,18.5383333,-72.4122222
+pe,iquitos,Iquitos,16,439114,-3.7480556,-73.2472222
+mm,mawlamyine,Mawlamyine,13,438907,16.4913889,97.6255556
+cn,baoji,Baoji,26,438295,34.365907,107.359045
+jp,kurashiki,Kurashiki,31,437585,34.583333,133.766667
+cm,garoua,Garoua,13,436932,9.3,13.4
+tz,mwanza,Mwanza,12,436811,-2.5166667,32.9
+cm,kousseri,KoussÃˆri,12,435986,12.0783333,15.0308333
+in,tirunelveli,Tirunelveli,25,435882,8.733333,77.7
+gb,edinburgh,Edinburgh,U8,435794,55.95,-3.2
+in,malegaon,Malegaon,16,435397,20.55,74.533333
+mx,matamoros,Matamoros,28,435159,25.883333,-97.5
+ru,kaliningrad,Kaliningrad,23,434959,54.706493,20.510951
+br,ananindeua,Ananindeua,16,433956,-1.366667,-48.383333
+id,balikpapan,Balikpapan,14,433939,-1.283333,116.833333
+ph,dadiangas,Dadiangas,C6,432571,6.112778,125.171667
+uz,namangan,Namangan,6,432479,40.9952778,71.6725
+ng,katsina,Katsina,24,432179,12.989428,7.600628
+za,welkom,Welkom,3,432070,-27.986442,26.706612
+co,santa marta,Santa Marta,38,431788,11.240791,-74.19904
+eg,el mahalla el kubra,El Mahalla el Kubra,5,431088,30.9761111,31.1669444
+gb,bristol,Bristol,B7,430714,51.45,-2.583333
+jp,yokosuka,Yokosuka,19,428999,35.283611,139.667222
+in,akola,Akola,16,428892,20.733333,77
+in,belgaum,Belgaum,19,428756,15.866667,74.5
+cn,luqiao,Luqiao,2,427890,28.580835,121.377148
+ru,bryansk,Bryansk,10,427241,53.252089,34.371666
+mx,xalapa,Xalapa,30,425166,19.533333,-96.916667
+ve,barcelona,Barcelona,2,424819,10.1333333,-64.7
+cn,chaozhou,Chaozhou,30,424787,23.665129,116.637864
+in,gaya,Gaya,34,423737,24.783333,85
+sk,bratislava,Bratislava,2,423737,48.15,17.1166667
+us,atlanta,Atlanta,GA,422908,33.7488889,-84.3880556
+cd,likasi,Likasi,5,422726,-10.981389,26.733333
+eg,luxor,Luxor,23,422408,25.6833333,32.65
+co,ibague,IbaguÃˆ,28,421689,4.438889,-75.232222
+za,east london,East London,5,421562,-33.011051,27.910049
+cn,shaoxing,Shaoxing,2,421283,30.011019,120.571528
+tr,erzurum,Erzurum,25,420919,39.908611,41.276944
+ru,ivanovo,Ivanovo,21,420843,56.997192,40.971392
+ng,akure,Akure,48,420623,7.25256,5.193118
+eg,asyut,Asyut,17,420614,27.1827778,31.1827778
+ma,kenitra,Kenitra,52,420534,34.261008,-6.580203
+id,jambi,Jambi,5,420391,-1.6,103.616667
+in,korba,Korba,37,419326,22.35,82.683333
+in,bokaro,Bokaro,38,418578,23.783333,85.966667
+us,san juan,San Juan,PR,418140,18.4683333,-66.1061111
+pk,sukkur,Sukkur,5,417923,27.705164,68.857383
+nz,auckland,Auckland,E7,417910,-36.866667,174.766667
+in,mangaluru,Mangaluru,19,417423,12.863889,74.835278
+cn,luohe,Luohe,9,417356,33.571667,114.035278
+kz,shymkent,Shymkent,10,414059,42.3,69.6
+tw,hsinchu,Hsinchu,4,413683,24.8047222,120.9713889
+pl,szczecin,Szczecin,87,413658,53.439531,14.593891
+us,omaha,Omaha,NE,413487,41.2586111,-95.9375
+ru,magnitogorsk,Magnitogorsk,13,413357,53.418611,59.047222
+in,jhansi,Jhansi,36,412968,25.433333,78.583333
+br,florianopolis,FlorianÃ›polis,26,412731,-27.583333,-48.566667
+br,santos,Santos,27,411411,-23.95,-46.333333
+fr,toulouse,Toulouse,B3,411145,43.599516,1.433188
+ve,maturin,MaturÃŒn,16,410967,9.75,-63.1766667
+ir,ardabil,Ardabil,32,410773,38.2498,48.2933
+es,murcia,Murcia,31,410364,37.987041,-1.130042
+cn,chaoyang,Chaoyang,19,410005,41.570278,120.458611
+ru,kursk,Kursk,41,409435,51.737329,36.187349
+ca,kitchener,Kitchener,8,409111,43.45,-80.5
+pa,panama,PanamÂ·,8,408188,8.9666667,-79.5333333
+cn,shiyan,Shiyan,12,408055,32.6475,110.778056
+ar,santiago del estero,Santiago del Estero,22,407636,-27.795112,-64.261489
+vn,bien hoa,BiÃçn HÃ_a,43,407224,10.95,106.816667
+ar,resistencia,Resistencia,3,406967,-27.46056,-58.983886
+br,ribeirao das neves,Ribeirâ€_o das Neves,15,406840,-19.783333,-44.1
+jp,hirakata,Hirakata,32,406335,34.8,135.633333
+id,denpasar,Denpasar,2,405959,-8.65,115.216667
+eg,tanta,Tanta,5,404934,30.7911111,30.9980556
+za,newcastle,Newcastle,2,404849,-27.757956,29.931803
+cn,jixi,Jixi,8,403759,45.3,130.966667
+tz,zanzibar,Zanzibar,25,403670,-6.1666667,39.1833333
+mx,tonala,TonalÂ·,14,401616,20.616667,-103.233333
+sd,kassala,Kassala,52,401514,15.4558333,36.3988889
+zm,kitwe,Kitwe,2,400955,-12.8166667,28.2
+ru,tver,Tver,77,400216,56.860491,35.876027
+jp,machida,Machida,40,399971,35.540278,139.450833
+cn,yangjiang,Yangjiang,30,399735,21.85,111.966667
+in,tiruppur,Tiruppur,25,397554,11.1,77.35
+tw,keelung,Keelung,4,397516,25.1313889,121.7375
+gt,villa nueva,Villa Nueva,7,397158,14.526944,-90.5875
+gb,manchester,Manchester,I2,395516,53.5,-2.216667
+ve,maracay,Maracay,4,395412,10.2469444,-67.5958333
+br,vila velha,Vila Velha,8,394937,-20.333333,-40.283333
+cn,weifang,Weifang,25,394732,36.71,119.101944
+jp,fujisawa,Fujisawa,19,394630,35.341944,139.47
+us,oakland,Oakland,CA,394579,37.8044444,-122.2697222
+zm,ndola,Ndola,2,394559,-12.9666667,28.6333333
+tr,samsun,Samsun,55,394261,41.286667,36.33
+in,kollam,Kollam,13,394198,8.880556,76.591667
+br,serra,Serra,8,394160,-20.116667,-40.3
+ee,tallinn,Tallinn,1,394023,59.4338889,24.7280556
+cm,bamenda,Bamenda,7,393871,5.9333333,10.1666667
+co,bello,Bello,2,392945,6.337315,-75.557951
+cn,xinpu,Xinpu,4,392444,34.599722,119.159444
+my,sandakan,Sandakan,16,392332,5.8402,118.1179
+af,qandahar,Qandahar,23,391230,31.613323,65.710126
+br,diadema,Diadema,27,390641,-23.7,-46.616667
+ar,corrientes,Corrientes,6,390481,-27.480596,-58.834099
+th,samut prakan,Samut Prakan,42,388921,13.600417,100.596778
+mz,nampula,Nampula,6,388526,-15.1197222,39.2647222
+gw,bissau,Bissau,11,388094,11.85,-15.5833333
+ph,iloilo,Iloilo,C9,387748,10.696944,122.564444
+br,campos,Campos,21,387422,-21.75,-41.3
+de,bochum,Bochum,7,387061,51.483333,7.216667
+ly,misratah,Misratah,58,386120,32.3783333,15.0905556
+br,maua,MauÂ·,27,386077,-23.666667,-46.45
+bj,abomey-calavi,Abomey-Calavi,5,385823,6.45,2.35
+jp,toyonaka,Toyonaka,32,384463,34.783333,135.466667
+us,honolulu,Honolulu,HI,384241,21.3069444,-157.8583333
+br,betim,Betim,15,384038,-19.966667,-44.216667
+jp,fukuyama,Fukuyama,11,383302,34.483333,133.366667
+us,miami,Miami,FL,382894,25.7738889,-80.1938889
+co,pasto,Pasto,20,382242,1.213611,-77.281111
+us,tulsa,Tulsa,OK,382005,36.1538889,-95.9925
+br,caxias do sul,Caxias do Sul,23,381277,-29.1689,-51.1785
+ru,nizhniy tagil,Nizhniy Tagil,71,381121,57.919444,59.965
+pe,huancayo,Huancayo,12,380098,-12.0666667,-75.2333333
+cn,dezhou,Dezhou,25,379555,37.448611,116.2925
+es,palma,Palma,7,378884,39.574337,2.655222
+za,krugersdorp,Krugersdorp,6,378833,-26.092835,27.790701
+in,panihati,Panihati,28,378741,22.694167,88.374444
+tw,chungho,Chungho,3,378389,24.9944444,121.4727778
+jp,toyohashi,Toyohashi,1,378377,34.766667,137.383333
+id,cimahi,Cimahi,30,378027,-6.698333,107.275278
+cz,brno,Brno,78,377407,49.2,16.633333
+ht,delmas,Delmas,11,377194,18.5447222,-72.3027778
+cn,zhoukou,Zhoukou,9,377061,33.633333,114.633333
+ua,makiyivka,Makiyivka,5,376607,48.047816,37.925764
+tr,kahramanmaras,Kahramanmaras,46,376247,37.584705,36.926405
+th,nonthaburi,Nonthaburi,38,375826,13.862167,100.513417
+tw,taoyuan,TaoyÂ¸an,4,375366,24.9869444,121.3055556
+al,tirana,Tirana,50,374801,41.3275,19.8188889
+br,sao jose do rio preto,Sâ€_o JosÃˆ do Rio PrÃçto,27,374706,-20.8,-49.383333
+lt,kaunas,Kaunas,57,374655,54.9,23.9
+cn,xuanhua,Xuanhua,10,373422,40.610278,115.044722
+us,colorado springs,Colorado Springs,CO,373072,38.8338889,-104.8208333
+my,seremban,Seremban,5,372931,2.7297,101.9381
+ng,ife,Ife,32,372191,7.466667,4.566667
+cn,pingxiang,Pingxiang,3,372123,27.616667,113.85
+tr,van,Van,65,371911,38.492393,43.38311
+bf,bobo dioulasso,Bobo Dioulasso,51,370809,11.2,-4.3
+il,tel aviv-yafo,Tel Aviv-Yafo,5,370480,32.067778,34.764722
+ir,abadan,Abadan,15,370220,30.3392,48.3043
+us,minneapolis,Minneapolis,MN,367773,44.98,-93.2636111
+us,arlington,Arlington,TX,367535,32.7355556,-97.1077778
+in,ahmadnagar,Ahmadnagar,16,367168,19.083333,74.733333
+it,bologna,Bologna,5,367168,44.483333,11.333333
+in,dhule,Dhule,16,367010,20.9,74.783333
+br,olinda,Olinda,30,366761,-8.016667,-34.85
+pl,bydgoszcz,Bydgoszcz,73,366452,53.127062,18.019987
+my,kuantan,Kuantan,6,366253,3.8077,103.326
+ve,petare,Petare,15,365959,10.4833333,-66.8166667
+mx,xico,Xico,15,365793,19.266667,-98.933333
+es,las palmas,Las Palmas,53,365418,28.099727,-15.41343
+ma,tetouan,TÃˆtouan,57,365355,35.571091,-5.372424
+pk,larkana,Larkana,5,364168,27.555082,68.214137
+nz,christchurch,Christchurch,E9,363925,-43.533333,172.633333
+de,wuppertal,Wuppertal,7,363240,51.266667,7.183333
+ru,stavropol,Stavropol,70,363069,45.0428,41.9734
+mx,villahermosa,Villahermosa,27,362416,17.983333,-92.916667
+jp,toyota,Toyota,1,362386,35.083333,137.15
+cn,zhaoqing,Zhaoqing,30,361969,23.051157,112.459722
+in,bhagalpur,Bhagalpur,34,361587,25.25,87
+pk,shekhupura,Shekhupura,4,361408,31.713056,73.978333
+br,carapicuiba,CarapicuÃŒba,27,361120,-23.516667,-46.833333
+tw,sanchung,Sanchung,3,360829,25.0630556,121.4638889
+gh,tamale,Tamale,6,360644,9.4,-0.8333333
+ru,ulan-ude,Ulan-Ude,11,360281,51.826053,107.609794
+pl,lublin,Lublin,75,360044,51.25,22.566667
+ar,neuquen,Neuquen,15,359037,-38.951606,-68.059102
+cn,anqing,Anqing,1,358661,30.509167,117.050556
+kz,taraz,Taraz,17,358167,42.9,71.366667
+co,manizales,Manizales,37,357819,5.06889,-75.517383
+cn,sanmenxia,Sanmenxia,9,357767,34.774722,111.181389
+ir,zanjan,Zanjan,36,357489,36.6736,48.4787
+jp,iwaki,Iwaki,8,357313,37.05,140.883333
+ph,bacoor,Bacoor,20,356987,14.459027,120.929034
+jp,asahikawa,Asahikawa,12,356615,43.767778,142.370278
+id,ambon,Ambon,28,355607,-3.695426,128.181405
+sa,tabuk,Tabuk,19,355469,28.399804,36.571505
+us,wichita,Wichita,KS,355244,37.6922222,-97.3372222
+id,samarinda,Samarinda,14,355223,-0.5,117.15
+mx,mazatlan,MazatlÂ·n,25,354730,23.216667,-106.416667
+jp,takatsuki,Takatsuki,32,354472,34.85,135.616667
+gr,thessaloniki,ThessalonÃŒki,13,354291,40.6402778,22.9438889
+co,neiva,Neiva,16,352859,2.927299,-75.281885
+jp,okazaki,Okazaki,1,352364,34.916667,137.15
+mx,apodaca,Apodaca,19,352246,25.766667,-100.2
+ua,vinnytsya,Vinnytsya,23,352113,49.232776,28.480968
+cn,anshun,Anshun,18,351936,26.25,105.933333
+jp,suita,Suita,32,351634,34.75,135.533333
+gh,tema,Tema,8,351556,5.6166667,-0.0166667
+mx,ixtapaluca,Ixtapaluca,15,351015,19.316667,-98.883333
+in,muzaffarnagar,Muzaffarnagar,36,349741,29.466667,77.683333
+mx,nuevo laredo,Nuevo Laredo,28,349562,27.5,-99.516667
+es,bilbao,Bilbao,59,349270,43.260919,-2.938764
+ir,sanandaj,Sanandaj,16,349200,35.3144,46.9923
+in,latur,Latur,16,348994,18.4,76.583333
+br,campina grande,Campina Grande,17,348943,-7.216667,-35.883333
+cu,camaguey,CamagÂ¸ey,5,347572,21.3808333,-77.9169444
+it,florence,Florence,16,347194,43.766667,11.25
+ca,london,London,8,346774,42.983333,-81.25
+cn,chifeng,Chifeng,20,346654,42.268333,118.963611
+ch,zurich,Zurich,25,346185,47.366667,8.55
+kz,astana,Astana,5,345621,51.181111,71.427778
+ru,belgorod,Belgorod,9,345293,50.610743,36.580152
+sd,kusti,Kusti,27,345102,13.1666667,32.6666667
+cn,qitaihe,Qitaihe,8,345033,45.8,130.85
+qa,doha,Doha,1,344939,25.286667,51.533333
+ve,turmero,Turmero,4,344746,10.2333333,-67.4833333
+ru,arkhangelsk,Arkhangelsk,6,344603,64.5401,40.5433
+cd,boma,Boma,8,344522,-5.85,13.05
+mx,cuernavaca,Cuernavaca,17,343785,18.916667,-99.25
+ru,kurgan,Kurgan,40,343132,55.45,65.333333
+us,santa ana,Santa Ana,CA,343054,33.7455556,-117.8669444
+co,soledad,Soledad,4,342562,10.918433,-74.76459
+cn,zhongshan,Zhongshan,1,342306,22.520576,113.382318
+br,piracicaba,Piracicaba,27,342216,-22.716667,-47.633333
+sa,buraydah,Buraydah,8,341981,26.325986,43.974966
+fr,nice,Nice,B8,341621,43.713644,7.25952
+pk,jhang,Jhang,4,341311,31.306773,72.32814
+tz,arusha,Arusha,26,341155,-3.3666667,36.6833333
+in,ambattur,Ambattur,25,341078,13.076667,80.088611
+ng,iseyin,Iseyin,32,340707,7.966667,3.6
+jp,koriyama,Koriyama,8,340563,37.4,140.383333
+jp,kashiwa,Kashiwa,4,340228,35.854444,139.968889
+cn,aksu,Aksu,13,340020,41.123056,80.264444
+mx,irapuato,Irapuato,11,339568,20.683333,-101.35
+jp,tokorozawa,Tokorozawa,34,339441,35.786389,139.467778
+gb,leicester,Leicester,H4,339240,52.633333,-1.133333
+gb,leicester,Leicester,H5,339240,52.664913,-1.034894
+ru,kaluga,Kaluga,25,338982,54.529302,36.275415
+br,macapa,MacapÂ·,3,338937,0.033333,-51.05
+us,raleigh,Raleigh,NC,338759,35.7719444,-78.6388889
+jp,kawagoe,Kawagoe,34,337937,35.908611,139.485278
+bd,tungi,Tungi,81,337620,23.89,90.4058333
+in,bellary,Bellary,19,336710,15.15,76.933333
+br,itaquaquecetuba,Itaquaquecetuba,27,336686,-23.483333,-46.35
+cr,san jose,San JosÃˆ,8,335056,9.933333,-84.083333
+br,bauru,Bauru,27,335031,-22.316667,-49.066667
+tw,fengshan,Fengshan,4,334443,22.6333333,120.35
+cn,tieling,Tieling,19,333907,42.293056,123.841389
+us,anaheim,Anaheim,CA,333689,33.8352778,-117.9136111
+ir,qazvin,Qazvin,38,333652,36.2797,50.0049
+ru,orel,OrÃ_l,56,333310,52.965076,36.078495
+in,muzaffarpur,Muzaffarpur,34,333235,26.116667,85.4
+in,kamarhati,Kamarhati,28,332997,22.671111,88.374722
+sd,wad madani,Wad Madani,38,332752,14.4,33.5333333
+tw,tucheng,Tucheng,4,332405,24.9833333,121.4333333
+ua,vinnitsa,Vinnitsa,23,332400,49.232776,28.480968
+br,montes claros,Montes Claros,15,332384,-16.716667,-43.866667
+bg,plovdiv,Plovdiv,51,332088,42.15,24.75
+ir,khorramshahr,Khorramshahr,15,331254,30.4397,48.1664
+br,cariacica,Cariacica,8,330681,-20.266667,-40.416667
+in,mathura,Mathura,36,330543,27.5,77.683333
+bi,bujumbura,Bujumbura,2,330539,-3.3761111,29.36
+ir,khorramabad,Khorramabad,23,329847,33.487778,48.355833
+sv,soyapango,Soyapango,10,329704,13.7347222,-89.1513889
+in,patiala,Patiala,23,329248,30.326667,76.400278
+kz,pavlodar,Pavlodar,11,329014,52.3,76.95
+ma,asfi,Asfi,51,328883,32.299392,-9.237181
+in,chandrapur,Chandrapur,16,328377,19.95,79.3
+id,pacet,Pacet,30,328324,-6.750278,107.046667
+br,canoas,Canoas,23,328297,-29.933333,-51.183333
+ru,sochi,Sochi,38,327613,43.599167,39.725689
+de,bielefeld,Bielefeld,7,327198,52.033333,8.533333
+cn,yanji,Yanji,5,326957,42.771389,129.423333
+pe,piura,Piura,20,326592,-5.2,-80.6333333
+in,bhilwara,Bhilwara,24,326454,25.35,74.633333
+br,moji das cruzes,Moji das Cruzes,27,325753,-23.516667,-46.183333
+in,thrissur,Thrissur,13,325140,10.516667,76.216667
+in,brahmapur,Brahmapur,21,324753,19.316667,84.783333
+us,tampa,Tampa,FL,324465,27.9472222,-82.4586111
+br,sao vicente,Sâ€_o Vicente,27,324464,-23.966667,-46.383333
+au,canberra,Canberra,1,324025,-35.27603,149.13435
